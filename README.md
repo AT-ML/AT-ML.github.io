@@ -35,12 +35,12 @@ pip install at-ml
 Documentation
 -------------
 
-The documentation can be found at https://at-ml.github.io/at-ml/
+The documentation can be found at (https://at-ml.github.io/at-ml/)
 
 Example notebooks
 -----------------
 
-Servel example notebooks can be seen at https://github.com/AT-ML/at-ml/tree/main/notebooks
+Servel example notebooks can be seen at (https://github.com/AT-ML/at-ml/tree/main/notebooks)
 
 Citation
 --------
@@ -61,4 +61,4 @@ If you use @ML in a scientific publication, it would be great if you can cite th
 Acknowledgements
 ----------------
 
-This toolbox is delivered as a part of the project: Measurement theory for data science and AI, funded by the Alan Turing Insititute (https://www.turing.ac.uk/). 
+This toolbox is delivered as a part of the project: Measurement theory for data science and AI, funded by the Alan Turing Insititute (https://www.turing.ac.uk/research/research-projects/measurement-theory-data-science-and-ai). 
