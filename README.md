@@ -1,2 +1,2 @@
-## @ML: A toolbox for performing adaptive tesing on machine learning models and datasets
+## @ML: A toolbox for performing adaptive testing on machine learning experiments
 
